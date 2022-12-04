@@ -29,7 +29,6 @@ Demo of a registered user:
 
 ## Compatibility
 
-> Don't worry about this section, we'll take care of it. Unless you really want to...
 
 ![Power Apps Source File Pack and Unpack Utility 0.20](https://img.shields.io/badge/Packing%20Tool-0.20-green.svg)
 ![Premium License](https://img.shields.io/badge/Premium%20License-Not%20Required-green.svg "Premium Power Apps license not required")
