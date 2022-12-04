@@ -18,6 +18,7 @@ Dashboard:
 ![picture of the sample](assets/dashboard.png)
 
 Demo of a registered user:
+
 ![picture of the sample](assets/demo.gif)
 
 ## Applies to
