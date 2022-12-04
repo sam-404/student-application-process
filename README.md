@@ -12,7 +12,7 @@ Login:
 ![picture of the sample](assets/login.png)
 
 Register:
-![picture of the sample](assets/resgiter.png)
+![picture of the sample](assets/register.png)
 
 Dashboard:
 ![picture of the sample](assets/dashboard.png)
