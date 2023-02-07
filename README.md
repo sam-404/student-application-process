@@ -17,9 +17,7 @@ Register:
 Dashboard:
 ![picture of the sample](assets/dashboard.png)
 
-Demo of a registered user:
-
-![picture of the sample](assets/demo.gif)
+You can view the [demo video] of a registered user on my Youtube channel.
 
 ## Applies to
 
