@@ -17,6 +17,9 @@ Register:
 Dashboard:
 ![picture of the sample](assets/dashboard.png)
 
+Demo of a registered user:
+![demo](assets/demo.gif)
+
 
 ## Applies to
 
